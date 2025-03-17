@@ -7,3 +7,5 @@ print(f'{a} + {b} = {calculadora.somar(a,b)}')
 print(f'{a} - {b} = {calculadora.subtrair(a,b)}')
 # 2 * 3  = 6
 print(f'{a} * {b} = {calculadora.multiplicar(a,b)}')
+# 2 / 3  = 0.6
+print(f'{a} / {b} = {calculadora.dividir(a,b)}')
